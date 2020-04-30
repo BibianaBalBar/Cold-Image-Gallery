@@ -1,5 +1,6 @@
 body {
 	padding-top: 70px;
+	background: #2c3e50;
 }
 
 .jumbotron {
@@ -8,23 +9,23 @@ body {
 }
 
 .navbar-inverse {
-	background: #2c3e50;
+	background: #ecf0f1;
 }
 
 .navbar-inverse .navbar-nav > li > a {
-	color: white;
+	color: #2c3e50;
 }
 
 .navbar-inverse .navbar-brand {
-	color: white;
+	color: #2c3e50;
 }
 
 .image1 {
-	background-image: url(https://source.unsplash.com/6-828bYztjw);
+	background-image: url(https://source.unsplash.com/2odHGnjADI0);
 }
 
 .image2 {
-	background-image: url(https://source.unsplash.com/kVKz9qnJC-k);
+	background-image: url(https://source.unsplash.com/FJQAjFZwz0w);
 }
 
 .image3 {
@@ -44,15 +45,27 @@ body {
 }
 
 .image7 {
-	background-image: url(https://source.unsplash.com/2odHGnjADI0);
+	background-image: url(https://source.unsplash.com/6-828bYztjw);
 }
 
 .image8 {
-	background-image: url(https://source.unsplash.com/FJQAjFZwz0w);
+	background-image: url(https://source.unsplash.com/zSGFGTed0zw);
 }
 
 .image9 {
-	background-image: url(https://source.unsplash.com/zSGFGTed0zw);
+	background-image: url(https://source.unsplash.com/ovynqgd5Dn4);
+}
+
+.image10 {
+	background-image: url(https://source.unsplash.com/AgWVcQz1bOA);
+}
+
+.image11 {
+	background-image: url(https://source.unsplash.com/-eDpBjt6UL0);
+}
+
+.image12 {
+	background-image: url(https://source.unsplash.com/JGf0KBPj3x4);
 }
 
 .image {
