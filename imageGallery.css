@@ -7,11 +7,7 @@ body {
 	background: #ecf0f1;
 }
 
-.navbar {
-	color: #ecf0f1;
-}
-
-.navbar .navbar-nav > ul > li > a {
+.navbar .nav-item .nav-link {
 	color: #ecf0f1;
 }
 
