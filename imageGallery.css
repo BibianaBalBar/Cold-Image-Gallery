@@ -1,5 +1,4 @@
 body {
-	padding-top: 70px;
 	background: #2c3e50;
 }
 
@@ -8,16 +7,16 @@ body {
 	background: #ecf0f1;
 }
 
-.navbar-inverse {
-	background: #ecf0f1;
+.navbar {
+	color: #ecf0f1;
 }
 
-.navbar-inverse .navbar-nav > li > a {
-	color: #2c3e50;
+.navbar .navbar-nav > ul > li > a {
+	color: #ecf0f1;
 }
 
-.navbar-inverse .navbar-brand {
-	color: #2c3e50;
+.navbar .navbar-brand {
+	color: #ecf0f1;
 }
 
 .image1 {
